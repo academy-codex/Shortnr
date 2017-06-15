@@ -58,13 +58,6 @@ app.post('/url',(req,res)=>{
         
     });
     
-//    link.save().then((url)=>{
-//        res.send(url);
-//    }).catch((e)=>{
-//        res.status(400).send();
-//    })
-    
-    
 });
 
 // Url Redirect Request
